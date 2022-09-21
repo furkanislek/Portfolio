@@ -5,11 +5,24 @@
 
 .aboutClass{
     display: flex;
-    justify-content: flex-end;
-    margin-top: 8rem;
+    justify-content: center;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    align-items: center;
+    background-color: blue;
 }
 
 .textAbout{
     display: block;
     margin-right: 5rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.imagesAbout{
+    display: block;
+}
+
+#logo {
+    color: rgb(58, 24, 121);
 }
