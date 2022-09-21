@@ -1,0 +1,15 @@
+*{
+    /* text-align: center; */
+    margin: 0;
+}
+
+.aboutClass{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 8rem;
+}
+
+.textAbout{
+    display: block;
+    margin-right: 5rem;
+}
