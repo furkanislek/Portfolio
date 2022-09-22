@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://drive.google.com/file/d/1Q1mqWhTBVtIGqSlX9GNH8dIHfiRVT1QY/view",
     "name": "Furkan Akif ISLEK",
     "role": "Frontend Developer",
     "linkedinId":"https://www.linkedin.com/in/furkanislek/",
