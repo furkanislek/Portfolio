@@ -454,11 +454,13 @@ ul#nav li.current a { color: #F06000; }
    display: block;
    cursor: pointer;
    margin: 10px;
+   
 }
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
+   font-size: 200px;
    left: 0;
    top: 0;
    width: 100%;
