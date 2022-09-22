@@ -73,9 +73,9 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Credit Calculate",
+        "description":"React Credit Calculate Practicums",
+        "imgurl":"https://user-images.githubusercontent.com/76527169/190879398-54ada9f5-e94f-454a-b5a1-ff3f9c8380e3.png"
       },
       {
         "name":"project2",
