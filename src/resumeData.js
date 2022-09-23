@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer",
     "linkedinId":"https://www.linkedin.com/in/furkanislek/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am a Frontend Developer. Dealing with various parts of frontend development and learning about new technologies,I like to practice React or just play games in my spare time.",
     "socialLinks":[
         {
           "name":"linkedin",
