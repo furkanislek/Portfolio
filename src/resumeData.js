@@ -34,6 +34,12 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Patika.dev",
+        "specialization":"Bootcamp Accelerator Program - Intern",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2022",
+      },
+      {
         "CompanyName":"Nuhoglu Insaat San. ve Tic. A.S.",
         "specialization":"Civil Engineer",
         "MonthOfLeaving":"March",
