@@ -96,16 +96,6 @@ let resumeData = {
         "url" : "https://myperfecttodolist45.web.app/"
       },
       
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
     ]
   }
   
