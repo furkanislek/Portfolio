@@ -75,23 +75,28 @@ let resumeData = {
       {
         "name":"Credit Calculate",
         "description":"React Credit Calculate Practicums",
-        "imgurl":"https://user-images.githubusercontent.com/76527169/190879398-54ada9f5-e94f-454a-b5a1-ff3f9c8380e3.png"
+        "imgurl":"images/portfolio/credit1.png",
+        "url":"https://github.com/furkanislek/Fimple-Credit-Calculate"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Calculator App",
+        "description":"React Calculator App",
+        "imgurl":"images/portfolio/calculator.png",
+        "url" : "https://github.com/furkanislek/Calculator"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Tic Tac Toe",
+        "description":"Tic Tac Toe Project",
+        "imgurl":"images/portfolio/tictactoe.png",
+        "url" : "https://github.com/furkanislek/Tic-Tac-Toe"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+        "name":"To Do List Firebase",
+        "description":"To Do Kist Project ",  
+        "imgurl":"images/portfolio/todolist.png",
+        "url" : "https://myperfecttodolist45.web.app/"
+      },
+      
     ],
     "testimonials":[
       {
