@@ -17,3 +17,30 @@ Contact Details
 Furkan Akif ISLEK
 Gaziantep, Turkey
 furkanakifislek@gmail.com
+
+
+## Resume
+
+#### EDUCATION
+Cukurova University
+Civil Engineering• Aug 2020
+
+#### WORK
+Patika.dev
+Bootcamp Accelerator Program - Intern• September 2022
+
+Nuhoglu Insaat San. ve Tic. A.S.
+Civil Engineer• March 2022
+
+Yesil Enerji Enerji Verimliligi Danısmanlık Sanayi Ve Ticaret Limited Sirketi
+Civil Engineer• October 2021
+
+#### Skills
+
+JAVASCRIPT
+REACTJS
+CSS
+HTML5
+PHOTOSHOP
+WORDPRESS
+SEO
