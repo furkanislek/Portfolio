@@ -44,3 +44,8 @@ HTML5
 PHOTOSHOP
 WORDPRESS
 SEO
+
+
+![image](https://user-images.githubusercontent.com/76527169/192324647-2a0acea0-0515-4112-accc-ba79033ffd9f.png)
+
+![image](https://user-images.githubusercontent.com/76527169/192324798-3d3bb864-45c8-4728-976a-f5190b9ece8e.png)
