@@ -5,7 +5,14 @@ import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
-import resumeData from './resumeData';
+import resumeData from './resumeData';// Import the functions you need from the SDKs you need
+
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
 class App extends Component {
   render() {
     return (
