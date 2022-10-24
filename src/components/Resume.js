@@ -102,7 +102,7 @@ export default class Resume extends Component {
               href="https://drive.google.com/file/d/1vdiYima9F1JlLj6sWL3dbR7qLp_R8Cvx/view?usp=sharing"
               download
             >
-              Download Resume
+              Download Resumee
             </a>
           </div>
         </div>
